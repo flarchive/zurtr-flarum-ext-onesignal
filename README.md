@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of zurtr/flarum-ext-onesignal.** Not for installation: use [Packagist](https://packagist.org/packages/zurtr/flarum-ext-onesignal) or the [upstream repository](https://github.com/Zurtr/flarum-ext-onesignal).
 
-**0** versions archived · Latest: [`0.0.1-BETA`](https://github.com/flarchive/zurtr-flarum-ext-onesignal/tree/archive/v0.0.1-BETA) · License: `MIT` · Flarum: `^0.1.0`
+**1** versions archived · Latest: [`0.0.1-BETA`](https://github.com/flarchive/zurtr-flarum-ext-onesignal/tree/archive/v0.0.1-BETA) · License: `MIT` · Flarum: `^0.1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1-BETA` | 2016-11-01 | `^0.1.0` | [Browse](https://github.com/flarchive/zurtr-flarum-ext-onesignal/tree/archive/v0.0.1-BETA) |
 
 Catalog entry: [packages/zurtr-flarum-ext-onesignal.json](https://github.com/flarchive/archive-index/blob/main/packages/zurtr-flarum-ext-onesignal.json)
 
